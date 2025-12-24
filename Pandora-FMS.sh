@@ -1,13 +1,5 @@
 #!/bin/sh
 
-# Ansi color code variables
-red="\e[0;91m"
-green="\e[0;92m"
-cyan="\e[0;36m"
-yellow="\e[33m"
-reset="\e[0m"
-
-
 echo "----------------------------------------------------"
 echo " START INSTALL Pandora FMS  "
 echo "----------------------------------------------------"
